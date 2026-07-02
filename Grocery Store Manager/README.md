@@ -83,6 +83,6 @@ This project was created as part of my Python learning journey to strengthen my 
 
 ## 👨‍💻 Author
 
-**Bright Osei**
+**Nana Kofi Osei**
 
 Learning Python one project at a time.
